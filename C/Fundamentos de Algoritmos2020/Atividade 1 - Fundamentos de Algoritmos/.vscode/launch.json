@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Luana/Documents/CodeBlocks1semestre2020/Atividade 1 - Fundamentos de Algoritmos",
-      "program": "c:/Users/Luana/Documents/CodeBlocks1semestre2020/Atividade 1 - Fundamentos de Algoritmos/build/Debug/outDebug",
+      "cwd": "c:/Users/Luana/Documents/GitHub/BackEnd/C/Fundamentos de Algoritmos2020/Atividade 1 - Fundamentos de Algoritmos",
+      "program": "c:/Users/Luana/Documents/GitHub/BackEnd/C/Fundamentos de Algoritmos2020/Atividade 1 - Fundamentos de Algoritmos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
